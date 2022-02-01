@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xxffwwoqqzz
 - 👀 I’m interested in blockchain technology, web 3.0, cybersecurity, AI & competitive programming
 - 🌱 I’m currently learning Rust
-- 💞️ I'm looking to collaborate on Near Protocol
+- 💞️ I'm looking to collaborate on Near Protocol & The Open Network
 - 📫 How to reach me xxffwwoqqzz@gmail.com
 
 <!---
