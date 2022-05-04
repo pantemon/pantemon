@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @pantemon
-- 👀 I’m interested in blockchain technology, web 3.0, cybersecurity, AI & competitive programming
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in web3 & competitive programming
+- 🌱 I’m currently learning Rust, JavaScript & Solididy
 - 📫 How to reach me xxffwwoqqzz@gmail.com
