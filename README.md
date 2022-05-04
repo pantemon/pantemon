@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xxffwwoqqzz
+- 👋 Hi, I’m @pantemon
 - 👀 I’m interested in blockchain technology, web 3.0, cybersecurity, AI & competitive programming
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me xxffwwoqqzz@gmail.com
