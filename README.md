@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Illia (@pantemonnn);
 - 👀 I’m interested in web3 & competitive programming;
 - 🌱 I’m currently learning Rust;
-- 📫 How to reach me xxffwwoqqzz@gmail.com.
+- 📫 How to reach me pantemonnn@gmail.com.
